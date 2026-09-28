@@ -3,6 +3,6 @@
 ## system_info
 
 Print simple system info
->Curent user
->Curent date
->Curent working directory
+>Curent user<br>
+>Curent date<BR>
+>Curent working directory<br>
