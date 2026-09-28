@@ -1,0 +1,14 @@
+#!/bin/bash
+#Author: Aleksei Kolesnikov
+#Version: 1.1
+#Date: 28.09.2026
+#Sample System info print
+
+SCRIPT_PATH=$(dirname "$0")
+source "$SCRIPT_PATH/functions.sh"
+
+echo -n "Current User:"; print_user
+echo -n "Current Date:"; print_date
+echo -n "Current Dir Name:"; print_dirname
+
+
